@@ -1,0 +1,1 @@
+# fastAi-course-projects
