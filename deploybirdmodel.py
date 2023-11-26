@@ -1,5 +1,6 @@
 import gradio as gr
 from fastai.vision.all import *
+from fastcore.all import *
 
 learn = load_learner('export.pkl')
 
