@@ -32,3 +32,4 @@ stacked_threes = torch.stack(three_tensors).float()/255
 stacked_threes.shape
 
 len(stacked_threes.shape)
+print('haha github!')
