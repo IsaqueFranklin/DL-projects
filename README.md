@@ -1,1 +1,1 @@
-# fastAi-course-projects
+# Deep Learning projects and models
